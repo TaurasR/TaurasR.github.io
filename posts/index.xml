@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on MyBlog</title>
-    <link>http://TaurasR.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on MyBlog</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Nov 2024 17:42:19 +0200</lastBuildDate>
-    <atom:link href="http://TaurasR.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MyBlogPage2</title>
-      <link>http://TaurasR.github.io/posts/2psl/</link>
+      <link>http://localhost:1313/posts/2psl/</link>
       <pubDate>Tue, 12 Nov 2024 17:42:19 +0200</pubDate>
-      <guid>http://TaurasR.github.io/posts/2psl/</guid>
+      <guid>http://localhost:1313/posts/2psl/</guid>
       <description>&lt;p&gt;Hello world this is my Blog page number 2&lt;/p&gt;</description>
     </item>
   </channel>
